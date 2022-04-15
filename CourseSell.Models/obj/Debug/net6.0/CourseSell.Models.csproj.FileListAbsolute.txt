@@ -1,0 +1,12 @@
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\bin\Debug\net6.0\CourseSell.Models.deps.json
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\bin\Debug\net6.0\CourseSell.Models.dll
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\bin\Debug\net6.0\CourseSell.Models.pdb
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.csproj.AssemblyReference.cache
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.AssemblyInfoInputs.cache
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.AssemblyInfo.cs
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.csproj.CoreCompileInputs.cache
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.dll
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\refint\CourseSell.Models.dll
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\CourseSell.Models.pdb
+C:\Users\sazza\Desktop\470 Project\visualstudio\CourseSell\CourseSell.Models\obj\Debug\net6.0\ref\CourseSell.Models.dll
